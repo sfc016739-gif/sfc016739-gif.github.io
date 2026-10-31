@@ -1,6 +1,4 @@
 
----
----
 # Obsidian GSync - Personal OAuth Connector
 
 This website describes a personal Google OAuth configuration used with the open-source GSync plugin for Obsidian.
